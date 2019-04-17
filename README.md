@@ -20,6 +20,7 @@ A list of irish walks I want to do.
 - Carrauntoohil, Co Kerry
 - Tory Island, Co Donegal
 - Glendalough Upper Lake
+- Skellig Island
 
 ## Some interesting links
 [Some tips about what to pack (at the bottom of the page)](https://www.independent.ie/life/travel/ireland/7-amazing-walks-in-ireland-fresh-air-for-every-fitness-level-35575321.html)
