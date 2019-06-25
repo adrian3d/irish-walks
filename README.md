@@ -7,7 +7,7 @@ A list of irish walks I want to do.
 ## Kerry
 - The Kerry Way
 - The Dingle Way
--[Skellig Island](skellig-island/index.md)
+- [Skellig Island](skellig-island/index.md)
 
 ## Waterford
 - Coumshingaun Loop Walk
@@ -21,9 +21,13 @@ A list of irish walks I want to do.
 ## Tipperary
 - The Glen of Aherlow
 
-
+## Donegal
 - Errigal Mountain
+
+## Mayo
 - Croagh Patrick
+
+
 - Beara Way
 - Slieve Foye
 - Bray Head Loop Walk, Valentia Island
