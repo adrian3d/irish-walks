@@ -7,6 +7,7 @@ A list of irish walks I want to do.
 ## Kerry
 - The Kerry Way
 - The Dingle Way
+-[Skellig Island](skellig-island/index.md)
 
 ## Waterford
 - Coumshingaun Loop Walk
@@ -17,7 +18,10 @@ A list of irish walks I want to do.
 ## Galway
 - Connemara Way
 
+## Tipperary
 - The Glen of Aherlow
+
+
 - Errigal Mountain
 - Croagh Patrick
 - Beara Way
@@ -30,7 +34,7 @@ A list of irish walks I want to do.
 - Carrauntoohil, Co Kerry
 - Tory Island, Co Donegal
 - Glendalough Upper Lake
-- [Skellig Island](skellig-island/index.md)
+
 
 ## Some interesting links
 [Some tips about what to pack (at the bottom of the page)](https://www.independent.ie/life/travel/ireland/7-amazing-walks-in-ireland-fresh-air-for-every-fitness-level-35575321.html)
