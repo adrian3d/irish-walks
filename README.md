@@ -11,6 +11,7 @@ A list of irish walks I want to do.
 - Beara Way
 - Bray Head Loop Walk, Valentia Island
 - Cronin’s Yard Loop
+- Carrauntoohil, Co Kerry
 
 ## Waterford
 - Coumshingaun Loop Walk
@@ -36,11 +37,13 @@ A list of irish walks I want to do.
 ## Dublin
 - Howth Head Cliff Walk
 
-
-
+## Wicklow
 - Bray to Greystones
-- Ben Bulben, Co Sligo
-- Carrauntoohil, Co Kerry
+
+## Sligo
+
+- Ben Bulben
+
 - Tory Island, Co Donegal
 - Glendalough Upper Lake
 
