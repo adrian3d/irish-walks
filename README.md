@@ -6,6 +6,7 @@ A list of irish walks I want to do.
 
 ## Kerry
 - The Kerry Way
+- The Dingle Way
 
 ## Waterford
 - Coumshingaun Loop Walk
