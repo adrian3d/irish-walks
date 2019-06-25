@@ -7,9 +7,13 @@ A list of irish walks I want to do.
 ## Kerry
 - The Kerry Way
 
-## 
+## Waterford
 - Coumshingaun Loop Walk
+
+## Carlow
 - The Wicklow Way
+
+##
 - Connemara Way
 - The Dingle Way
 - The Glen of Aherlow
