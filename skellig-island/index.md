@@ -1,21 +1,19 @@
 # Skellig Island
 ![Skellig Island](https://static1.squarespace.com/static/57b9b98a29687f1ef5c622df/t/58ca9cd6c534a544cd420e12/1489673441441/skellig+islands+ireland?format=1500w)
 ## Date
-One day between 26/06/2019 - 03/07/2019.
+30/06/2019.
 
 ## Duration
 Morning until 2pm
 
 ## Budget
-100€ (Boat)
+120€ (Boat) (Don't forget to withdraw the money !!)
 
 ## Transport
-[Casey's Skellig Islands Tours](https://skelligislands.com/booking-and-reservations-for-skellig-michael-boat-trips/)
-or
-[Skellig Boat](https://skelligboat.com/)
+[Force Awakens Skellig Boat](http://www.theskelligsforceawakens.com/)
 
 ## Departure
-[Portmagee marina, Co. Kerry](https://www.google.com/maps/place/Casey's+Skellig+Islands+Tours+-+Skellig+Michael+Landing+Tours+and+Eco+Tours+-+Skelligs+Boat+Trips/@51.8683941,-10.3386794,11z/data=!4m5!3m4!1s0x0:0x5c3676f1239a4868!8m2!3d51.88588!4d-10.365244)
+[Ballinskelligs Pier, Co. Kerry (N51° 48.646' W010°16.458')](https://www.google.com/maps/place/Ballinskelligs+Pier/@51.7734992,-10.3160137,11z/data=!4m5!3m4!1s0x0:0x9a41a6bd0d7b5ac3!8m2!3d51.8107667!4d-10.2743)
 
 ## Lunch required
 Yes
