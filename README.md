@@ -13,9 +13,9 @@ A list of irish walks I want to do.
 ## Carlow
 - The Wicklow Way
 
-##
+## Galway
 - Connemara Way
-- The Dingle Way
+
 - The Glen of Aherlow
 - Errigal Mountain
 - Croagh Patrick
