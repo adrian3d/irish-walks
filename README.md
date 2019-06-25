@@ -10,6 +10,7 @@ A list of irish walks I want to do.
 - [Skellig Island](skellig-island/index.md)ç
 - Beara Way
 - Bray Head Loop Walk, Valentia Island
+- Cronin’s Yard Loop
 
 ## Waterford
 - Coumshingaun Loop Walk
@@ -32,9 +33,11 @@ A list of irish walks I want to do.
 ## Louth
 - Slieve Foye
 
-##
+## Dublin
 - Howth Head Cliff Walk
-- Cronin’s Yard Loop
+
+
+
 - Bray to Greystones
 - Ben Bulben, Co Sligo
 - Carrauntoohil, Co Kerry
