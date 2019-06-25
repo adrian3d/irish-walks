@@ -1,8 +1,13 @@
 # My irish walks
 A list of irish walks I want to do.
 
+## Antrim
 - Causeway Coast Way
+
+## Kerry
 - The Kerry Way
+
+## 
 - Coumshingaun Loop Walk
 - The Wicklow Way
 - Connemara Way
