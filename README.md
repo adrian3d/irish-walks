@@ -39,13 +39,14 @@ A list of irish walks I want to do.
 
 ## Wicklow
 - Bray to Greystones
+- Glendalough Upper Lake
 
 ## Sligo
-
 - Ben Bulben
 
+## Donegal
 - Tory Island, Co Donegal
-- Glendalough Upper Lake
+
 
 
 ## Some interesting links
