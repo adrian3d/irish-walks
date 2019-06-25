@@ -7,7 +7,7 @@ A list of irish walks I want to do.
 ## Kerry
 - The Kerry Way
 - The Dingle Way
-- [Skellig Island](skellig-island/index.md)ç
+- [Skellig Island](skellig-island/index.md)
 - Beara Way
 - Bray Head Loop Walk, Valentia Island
 - Cronin’s Yard Loop
